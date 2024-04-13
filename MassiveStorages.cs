@@ -15,7 +15,7 @@ namespace MassiveStorageMod
 {
     internal class MassiveStorages : IModData
     {
-        const int desiredCapacity = 1000;
+        const int desiredCapacity = 2000;
 
         public void RegisterData(ProtoRegistrator registrator)
         {
